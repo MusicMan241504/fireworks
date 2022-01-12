@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+*.bak
+*.dat
+*.dir
+*.ttf
+*.ttf
+*.html
+*.zip
